@@ -40,18 +40,7 @@ Here are some of my notable projects:
 ### 1. [movie-recommendation-system]
 - **Description**: a web application where users can input a movie title or genre, and the system, using machine learning algorithms like collaborative filtering or content-based filtering, would then generate a personalized list of movies they might enjoy based on their input and potentially past viewing history, all presented through a user-friendly Streamlit interface.
 - **Technologies Used**: Python, Scikit-learn, Pandas, etc.
-- **Link**: [GitHub Repository Link]
-
-### 2. [Project Name]
-- **Description**: A brief description of the project.
-- **Technologies Used**: R, Tableau, etc.
-- **Link**: [GitHub Repository Link]
-
-### 3. [Project Name]
-- **Description**: A brief description of the project.
-- **Technologies Used**: TensorFlow, Keras, etc.
-- **Link**: [GitHub Repository Link]
-
+- **Link**:https://github.com/himeshchoubey19/movie-recommendation-system
 ---
 
 - **Education**:
@@ -63,7 +52,7 @@ Here are some of my notable projects:
 - **Email**:himeshchoubey5@gmail.com
 - **LinkedIn**: www.linkedin.com/in/himesh-choubey-208aba246
 - **Portfolio**: [Personal Website or Portfolio Link]
-- **Resume**: [Link to Your Resume]
+- **Resume**:https://drive.google.com/drive/folders/1bkXGLoucoa6x_LISotYEkA7oM_6xT-uN?usp=drive_link
 ---
 
 Thank you for visiting my profile! Feel free to explore my repositories and reach out if you'd like to collaborate or connect.
