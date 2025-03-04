@@ -1,4 +1,3 @@
-# N4si
 # Hi, I'm Himesh Choubey 👋
 
 ### Aspiring Data Scientist | Machine Learning Enthusiast | Data Analyst
@@ -12,8 +11,6 @@ Welcome to my GitHub profile! I'm passionate about leveraging data to solve real
 - 👯 I’m looking to collaborate on open-source projects, data science competitions.
 - 💬 Ask me about [e.g., Python, Machine Learning, Data Visualization].
 - 📫 How to reach me: www.linkedin.com/in/himesh-choubey-208aba246
-- ⚡ Fun fact: [Something interesting about you].
-
 ---
 
 ## 🛠️ **Skills**
@@ -40,8 +37,8 @@ Welcome to my GitHub profile! I'm passionate about leveraging data to solve real
 ## 📂 **Projects**
 Here are some of my notable projects:
 
-### 1. [Project Name]
-- **Description**: A brief description of the project.
+### 1. [movie-recommendation-system]
+- **Description**: a web application where users can input a movie title or genre, and the system, using machine learning algorithms like collaborative filtering or content-based filtering, would then generate a personalized list of movies they might enjoy based on their input and potentially past viewing history, all presented through a user-friendly Streamlit interface.
 - **Technologies Used**: Python, Scikit-learn, Pandas, etc.
 - **Link**: [GitHub Repository Link]
 
