@@ -2,7 +2,7 @@
 
 ### Aspiring Data Scientist | Machine Learning Enthusiast | Data Analyst
 
-Welcome to my GitHub profile! I'm passionate about leveraging data to solve real-world problems. Here, you'll find a collection of my projects, skills, and contributions in the field of data science.
+Welcome to my GitHub profile! I'm passionate about leveraging data to solve real-world problems. Here, you'll find a collection of my projects, skills, and contributions in the field of data science..
 
 ---
 
